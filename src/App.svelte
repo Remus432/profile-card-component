@@ -45,7 +45,7 @@
 	</div>
 </main>
 
-<a href="https://www.frontendmentor.io/profile/Remus432" target="_blank" class="profile">
+<a aria-label="Visit Remus Buhaianu Frontend Mentor Profile" href="https://www.frontendmentor.io/profile/Remus432" target="_blank" class="profile">
 	<img class="profile__pic" src="/images/Remus.jpg" alt="Remus Buhaianu - Frontend Developer" />
 </a>
 
